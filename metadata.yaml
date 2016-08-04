@@ -1,0 +1,30 @@
+_repo: The-Augsburg-Confession--13-The-confession-of-faith-which-was-submitted-to-His-Imperial-Majesty__275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melanchthon, Philipp
+    aliases:
+    - Schwarzerd, Philipp
+    - Faventinus, Didymus
+    birthdate: 1497
+    deathdate: 1560
+    gutenberg_agent_id: '156'
+    url: http://www.gutenberg.org/2009/agents/156
+    wikipedia: http://en.wikipedia.org/wiki/Philipp_Melanchthon
+description: ''
+gutenberg_issued: '2008-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Lutheran Church -- Doctrines'
+- !lcsh 'Theology, Doctrinal'
+- GITenberg
+title: "The Augsburg Confession\r\nThe confession of faith, which was submitted to\
+  \ His Imperial Majesty Charles V at the diet of Augsburg in the year 1530"
+url: http://www.gutenberg.org/ebooks/275
